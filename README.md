@@ -1,0 +1,6 @@
+- check sqlite
+  - cmd > sqlite3
+  - .tables - show tables
+  - .dump - show history
+  - .mode columns - enable pretty print in table
+  - .headers on - show table head on print
